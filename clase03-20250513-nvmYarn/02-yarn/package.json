@@ -1,0 +1,13 @@
+{
+  "name": "02-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
